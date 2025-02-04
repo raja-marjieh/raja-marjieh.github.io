@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate at [Princeton Psychology][https://psychology.princeton.edu/] working in the Griffiths [Computational Cognitive Science Lab][https://cocosci.princeton.edu/index.php]. I also collaborate closely with the [Cornell Computational Cognition Lab][https://www.norijacoby.com/cococo.html].
+I'm a PhD candidate at [Princeton Psychology](https://psychology.princeton.edu/) working in the Griffiths [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php). I also collaborate closely with the [Cornell Computational Cognition Lab](https://www.norijacoby.com/cococo.html).
 
-Prior to that I completed an MSc in Physics, and a joint BSc in Physics and Electrical Engineering at the [Technion][https://www.technion.ac.il/en/].
+Prior to that I completed an MSc in Physics, and a joint BSc in Physics and Electrical Engineering at the [Technion](https://www.technion.ac.il/en/).
