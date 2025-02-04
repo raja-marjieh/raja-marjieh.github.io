@@ -143,8 +143,8 @@ html[data-theme-setting="dark"] {
 }
 
 html[data-theme="light"] {
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-theme-color: #{$blue-color-dark};
+  --global-hover-color: #{$blue-color-dark};
 }
 
 html[data-theme-setting="light"] {
