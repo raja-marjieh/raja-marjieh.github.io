@@ -142,6 +142,11 @@ html[data-theme-setting="dark"] {
   }
 }
 
+html[data-theme="light"] {
+  --global-theme-color: #{$cyan-color};
+  --global-hover-color: #{$cyan-color};
+}
+
 html[data-theme-setting="light"] {
   #light-toggle-system {
     display: none;

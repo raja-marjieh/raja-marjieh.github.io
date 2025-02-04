@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>321 Peretsman-Scully Hall</p>
     <p>Department of Psychology</p>
-    <p>Princeton University, NJ 08540</p>
+    <p>Princeton, NJ 08540</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
