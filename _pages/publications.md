@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /papers/
+permalink: /publications/
 title: Papers
 description: Papers in reversed chronological order.
 nav: true
