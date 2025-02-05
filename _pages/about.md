@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>321 Peretsman-Scully Hall</p>
+    <p>Peretsman-Scully Hall</p>
     <p>Department of Psychology</p>
     <p>Princeton, NJ 08540</p>
 

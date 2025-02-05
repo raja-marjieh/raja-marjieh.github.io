@@ -1,12 +1,16 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Algorithms with People
+description: Ongoing Work on Musical Representations and Beyond
+img: assets/img/consonance.png
 importance: 3
 category: Present
+related_publications: true
 ---
+
+As large-scale online experiments are becoming increasingly configurable and adaptive, they blur the line between a behavioral paradigm and a computer algorithm. This perspective (sometimes referred to as <emph>Algorithms with People</emph>) invites a new way of reimagining . If representations are probs.
+
+mention paper GSP, STEP-Tag, Multimodal SR, Diffusion SR...
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
