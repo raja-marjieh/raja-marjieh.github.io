@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Similarity
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: Present
-related_publications: true
+related_publications: marjieh2024universal, marjieh2023pitch, marjieh2025numberlargelanguagemodel, marjieh2024large, marjieh2025learninghumanalignedrepresentationscontrastive, marjieh2023words
 ---
 
 Every project has a beautiful feature showcase page.
