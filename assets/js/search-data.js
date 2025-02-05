@@ -4,19 +4,12 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-papers",
+  },{id: "nav-papers",
           title: "Papers",
           description: "Papers in reversed chronological order.",
           section: "Navigation",
@@ -24,8 +17,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "Research projects that I work on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -495,18 +488,18 @@ ninja.data = [{
           window.open("mailto:%72%61%6A%61.%6D%61%72%6A%69%65%68@%70%72%69%6E%63%65%74%6F%6E.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/raja-marjieh", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/raja-marjieh", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/raja-marjieh-505b0781", "_blank");
         },
       },{
         id: 'social-scholar',
