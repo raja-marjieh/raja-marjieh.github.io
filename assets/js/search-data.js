@@ -392,9 +392,9 @@ ninja.data = [{
     },{id: "news-this-is-my-new-website-more-updates-on-the-way",
           title: 'This is my new website, more updates on the way!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-similarity",
+          title: 'Similarity',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
