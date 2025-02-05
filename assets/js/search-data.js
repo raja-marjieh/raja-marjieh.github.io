@@ -394,7 +394,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-similarity",
           title: 'Similarity',
-          description: "",
+          description: "Aspects of Similarity in Natural and Artificial Minds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
