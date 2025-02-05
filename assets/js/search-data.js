@@ -402,9 +402,9 @@ ninja.data = [{
           description: "Ongoing Work on Musical Representations and Beyond",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-algorithms-with-people",
+          title: 'Algorithms with People',
+          description: "Ongoing Work on Musical Representations and Beyond",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
