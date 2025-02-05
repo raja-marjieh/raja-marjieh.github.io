@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "Email: raja [dot] marjieh [at] princeton [dot] edu"
 
