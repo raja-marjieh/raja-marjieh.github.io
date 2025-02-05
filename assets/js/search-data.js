@@ -495,6 +495,13 @@ ninja.data = [{
           window.open("mailto:%72%61%6A%61.%6D%61%72%6A%69%65%68@%70%72%69%6E%63%65%74%6F%6E.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/raja-marjieh", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
