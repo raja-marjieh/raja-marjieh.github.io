@@ -404,7 +404,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-algorithms-with-people",
           title: 'Algorithms with People',
-          description: "Ongoing Work on Musical Representations and Beyond",
+          description: "New Behavioral Paradigms for Characterizing Representations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
