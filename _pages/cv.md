@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: cv_raja.pdf # you can also use external links here
+description: You can download my CV through the PDF button at the top (last updated - February 6th, 2025).
 toc:
   sidebar: left
 ---
