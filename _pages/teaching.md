@@ -10,8 +10,11 @@ nav_order: 6
 Here is a summary of my teaching experience so far:
 
 <ol>
-  <li><em>Developmental Psychology</em>, Princeton Psychology (Role: Assistant in Instruction), 2024</li>
-  <li><em>Computational Models of Cognition</em>, Princeton Psychology and Computer Science (Role: Head Assistant in Instruction), 2023</li>
-  <li><em>Probabilistic Models of Cognition</em>, Princeton Psychology and Computer Science (Role: Head Assistant in Instruction), 2022</li>
-  <li><em>Introduction to Solid State Physics</em>, Technion Electrical Engineering (Role: Head Assistant in Instruction), 2015</li>
+  <li><em>Developmental Psychology</em>, Princeton Psychology, 2024 (Role: Assistant in Instruction).</li>
+  
+  <li><em>Computational Models of Cognition</em>, Princeton Psychology and Computer Science, 2023 (Role: Head Assistant in Instruction).</li>
+  
+  <li><em>Probabilistic Models of Cognition</em>, Princeton Psychology and Computer Science, 2022 (Role: Head Assistant in Instruction).</li>
+  
+  <li><em>Introduction to Solid State Physics</em>, Technion Electrical Engineering, 2015 (Role: Head Assistant in Instruction).</li>
 </ol>
