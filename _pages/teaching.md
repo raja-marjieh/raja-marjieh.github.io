@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Here is a summary of my teaching experience so far:
 
-Organize your courses by years, topics, or universities, however you like!
+<ol>
+  <li><em>Developmental Psychology</em>, Princeton Psychology (Role: Assistant in Instruction), 2024</li>
+  <li><em>Computational Models of Cognition</em>, Princeton Psychology and Computer Science (Role: Head Assistant in Instruction), 2023</li>
+  <li><em>Probabilistic Models of Cognition</em>, Princeton Psychology and Computer Science (Role: Head Assistant in Instruction), 2022</li>
+  <li><em>Introduction to Solid State Physics</em>, Technion Electrical Engineering (Role: Head Assistant in Instruction), 2015</li>
+</ol>
