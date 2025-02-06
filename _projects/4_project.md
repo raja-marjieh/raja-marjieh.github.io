@@ -2,7 +2,7 @@
 layout: page
 title: Relativistic Hydrodynamics
 description: 
-img: assets/img/entropy.png
+img: 
 importance: 1
 category: Past
 related_publications: true
