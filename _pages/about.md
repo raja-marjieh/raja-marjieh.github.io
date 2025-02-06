@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Peretsman-Scully Hall</p>
     <p>Department of Psychology</p>
+    <p>Peretsman-Scully Hall</p>
     <p>Princeton, NJ 08540</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
