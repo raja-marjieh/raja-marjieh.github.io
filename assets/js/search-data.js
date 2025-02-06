@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-papers",
           title: "Papers",
-          description: "Papers in reversed chronological order.",
+          description: "Papers in reversed chronological order. For a more structured division see CV and Projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "You can download my CV through the PDF button at the top (last updated - February 6th, 2025).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -389,8 +389,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-this-is-my-new-website-more-updates-on-the-way",
-          title: 'This is my new website, more updates on the way!',
+    },{id: "news-this-is-my-new-website-more-updates-soon",
+          title: 'This is my new website, more updates soon!',
           description: "",
           section: "News",},{id: "projects-similarity",
           title: 'Similarity',
