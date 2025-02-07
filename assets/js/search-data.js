@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "You can download my CV through the PDF button at the top right (last updated - February 6th, 2025).",
+          description: "You can download my CV through the PDF button on the top right (last updated - February 6th, 2025).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-other",
+          title: "Other",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/other/";
           },
         },{id: "post-a-post-with-image-galleries",
       
