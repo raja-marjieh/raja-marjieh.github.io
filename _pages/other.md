@@ -10,7 +10,7 @@ nav_order: 7
 I *really* enjoy short stories and other short forms of writing. Here you can find some recommendations based on what I have been reading recently. Hope you enjoy them too!
 
 <ul>
-  <li>Warren S. McCulloch. <em>What is a Number, that a Man May Know it, and a Man, that He May Know a Number?</em>.</li><br>
+  <li>Warren S. McCulloch. <em>What is a Number, that a Man May Know it, and a Man, that He May Know a Number?</em></li><br>
 
   <li>Salvatore Quasimodo. <em>Lirici Greci</em>.</li><br>
 
@@ -20,5 +20,5 @@ I *really* enjoy short stories and other short forms of writing. Here you can fi
   
   <li>Luigi Pirandello, <em>Con Altri Occhi</em>.</li><br>
   
-  <li>M. R. James. <em>Oh, Whistle, and I'll Come to You</em>.<br>
+  <li>M. R. James. <em>Oh, Whistle, and I'll Come to You</em>.</li><br>
 </ul>
