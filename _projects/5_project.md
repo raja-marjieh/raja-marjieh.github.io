@@ -4,7 +4,7 @@ title: Quantum Optics
 description: 
 img: 
 importance: 2
-category: Past
+category: hidden
 related_publications: true
 ---
 
