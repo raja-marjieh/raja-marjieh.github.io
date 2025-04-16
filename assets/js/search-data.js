@@ -414,8 +414,8 @@ ninja.data = [{
           description: "New Behavioral Paradigms for Characterizing Representations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-relativistic-hydrodynamics",
-          title: 'Relativistic Hydrodynamics',
+            },},{id: "projects-physics",
+          title: 'Physics',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
