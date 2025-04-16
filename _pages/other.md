@@ -7,14 +7,18 @@ nav: true
 nav_order: 7
 ---
 
-I *really* enjoy short stories and other short pieces of writing. Here you can find some recommendations based on what I have been reading recently. Hope you enjoy them too!
+I *really* enjoy short stories and other short forms of writing. Here you can find some recommendations based on what I have been reading recently. Hope you enjoy them too!
 
 <ul>
-  <li>Jorge Luis Borges. <em>An Examination of the Work of Herbert Quain</em>. <a href="https://www.amazon.com/-/es/Ficciones-Introduction-Sturrock-Everymans-Contemporary/dp/0679422994">[Book]</a></li><br>
+  <li>Warren S. McCulloch. <em>What is a Number, that a Man May Know it, and a Man, that He May Know a Number?</em>.</li><br>
 
-  <li>Junichiro Tanizaki. <em>In Praise of Shadows</em>. <a href="https://www.amazon.com/Praise-Shadows-Junichiro-Tanizaki/dp/0918172020">[Book]</a></li><br>
+  <li>Salvatore Quasimodo. <em>Lirici Greci</em>.</li><br>
+
+  <li>Jorge Luis Borges. <em>An Examination of the Work of Herbert Quain</em>.</li><br>
+
+  <li>Junichiro Tanizaki. <em>In Praise of Shadows</em>.</li><br>
   
-  <li>Luigi Pirandello, <em>Con Altri Occhi</em>. <a href="https://tinyurl.com/3hxmh85f">[Book]</a></li><br>
+  <li>Luigi Pirandello, <em>Con Altri Occhi</em>.</li><br>
   
-  <li>M. R. James. <em>Oh, Whistle, and I'll Come to You</em>. <a href="https://tinyurl.com/yf3jabtn">[Book]</a></li><br>
+  <li>M. R. James. <em>Oh, Whistle, and I'll Come to You</em>.<br>
 </ul>
