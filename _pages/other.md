@@ -14,6 +14,8 @@ I *really* enjoy short stories and other short forms of writing. Here you can fi
 
   <li>Salvatore Quasimodo. <em>Lirici Greci</em>.</li><br>
 
+  <li>John Nash. <em>Equilibrium points in n-person games</em>.</li><br>
+
   <li>Jorge Luis Borges. <em>An Examination of the Work of Herbert Quain</em>.</li><br>
 
   <li>Junichiro Tanizaki. <em>In Praise of Shadows</em>.</li><br>
