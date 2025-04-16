@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Similarity
+title: Similarity and Representations
 description: Aspects of Similarity in Natural and Artificial Minds
 img: assets/img/similarity_project.jpg
 importance: 1

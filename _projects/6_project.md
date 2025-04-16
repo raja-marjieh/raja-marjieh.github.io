@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Cognition and Networks
-description: 
-img: singingnets.png
+description: Cognitive Representations in Context
+img: assets/img/singingnets.png
 importance: 4
 category: Present
 related_publications: true

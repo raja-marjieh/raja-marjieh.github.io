@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Representations in Music
-description: Ongoing Work on Musical Representations and Beyond
+description: Ongoing Work on Musical Representations
 img: assets/img/consonance.png
 importance: 2
 category: Present
