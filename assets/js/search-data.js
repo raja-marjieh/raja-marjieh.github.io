@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-research",
+          title: "Research",
           description: "Research projects that I work on.",
           section: "Navigation",
           handler: () => {
@@ -399,14 +399,17 @@ ninja.data = [{
     },{id: "news-this-is-my-new-website-more-updates-soon",
           title: 'This is my new website, more updates soon!',
           description: "",
-          section: "News",},{id: "projects-similarity",
-          title: 'Similarity',
+          section: "News",},{id: "news-four-papers-accepted-to-cogsci-2025",
+          title: 'Four papers accepted to CogSci 2025!',
+          description: "",
+          section: "News",},{id: "projects-similarity-and-representations",
+          title: 'Similarity and Representations',
           description: "Aspects of Similarity in Natural and Artificial Minds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-representations-in-music",
           title: 'Representations in Music',
-          description: "Ongoing Work on Musical Representations and Beyond",
+          description: "Ongoing Work on Musical Representations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-algorithms-with-people",
@@ -426,7 +429,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-cognition-and-networks",
           title: 'Cognition and Networks',
-          description: "",
+          description: "Cognitive Representations in Context",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
