@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four papers accepted to CogSci 2025!
+Five papers accepted to CogSci 2025!
