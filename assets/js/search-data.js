@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "You can download my CV through the PDF button on the top right (last updated - April 16th, 2025).",
+          description: "You can download my CV through the PDF button on the top right (last updated - August 10th, 2025).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -399,8 +399,8 @@ ninja.data = [{
     },{id: "news-this-is-my-new-website-more-updates-soon",
           title: 'This is my new website, more updates soon!',
           description: "",
-          section: "News",},{id: "news-four-papers-accepted-to-cogsci-2025",
-          title: 'Four papers accepted to CogSci 2025!',
+          section: "News",},{id: "news-five-papers-accepted-to-cogsci-2025",
+          title: 'Five papers accepted to CogSci 2025!',
           description: "",
           section: "News",},{id: "projects-similarity-and-representations",
           title: 'Similarity and Representations',
