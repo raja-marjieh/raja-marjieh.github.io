@@ -30,5 +30,3 @@ latest_posts:
 I'm a PhD candidate at [Princeton Psychology](https://psychology.princeton.edu/) working in the Griffiths [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php), currently starting my 5th year. I also collaborate closely with the [Cornell Computational Cognition Lab](https://www.norijacoby.com/cococo.html).
 
 Prior to that I completed an MSc in Physics, and a joint BSc in Physics and Electrical Engineering at the [Technion](https://www.technion.ac.il/en/).
-
-My work aims to understand the computational principles underlying the form and function of cognitive representations, and the way they shape behavior at both individual and collective scales.
