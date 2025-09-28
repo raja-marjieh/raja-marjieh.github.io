@@ -12,6 +12,8 @@ I *really* enjoy short pieces of writing. "Short" is of course relative, it coul
 <ul>
   <li>Marcus Aurelius. <em>Meditations 4.3.4</em>. ("ὁ κόσμος ἀλλοίωσις, ὁ βίος ὑπόληψις"; <a href="https://lexundria.com/m_aur_med/4.3/lg">translation</a>)</li><br>
 
+  <li>W. B. Yeats. <em>The Lake Isle of Innisfree.</em></li><br>
+
   <li>Greek Anthology. <em>Book VII: Sepulchral Epigrams</em>. (<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:7.670/">Epigram 670</a> in particular.)</li><br>
 
   <li>Warren S. McCulloch. <em>What is a Number, that a Man May Know it, and a Man, that He May Know a Number?</em></li><br>
