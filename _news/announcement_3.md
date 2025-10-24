@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.70131">paper</a> out in <em>Cognitive Science</em>!
+New paper out in <em>Cognitive Science</em>. You can check it out <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.70131">here</a>!
