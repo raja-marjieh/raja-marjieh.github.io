@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: cv_raja.pdf # you can also use external links here
-description: You can download my CV through the PDF button on the top right (last updated - October 12, 2025).
+description: You can download my CV through the PDF button on the top right (last updated - October 24, 2025).
 toc:
   sidebar: left
 ---
