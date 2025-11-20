@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /other/
-title: Other
+permalink: /short/
+title: Short
 description:
 nav: true
 nav_order: 7
