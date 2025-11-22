@@ -12,6 +12,8 @@ I *really* enjoy short pieces of writing. "Short" is of course relative, it coul
 <ul>
   <li>Jorge Luis Borges. <em>The House of Asterion</em>.</li><br>
 
+  <li>Edgar Allan Poe. <em>The Fall of the House of Usher</em>.</li><br>
+
   <li>Roger Ebert. <em>Review of "Being There" (1979).</em> (<a href="https://www.rogerebert.com/reviews/great-movie-being-there-1979">link</a>)</li><br>
 
   <li>Dante Alighieri. <em>De Vulgari Eloquentia.</em></li><br>
