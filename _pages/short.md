@@ -11,10 +11,6 @@ I *really* enjoy short pieces of writing. "Short" is of course relative, it coul
 
 <ul>
   <li>Jorge Luis Borges. <em>The House of Asterion</em>.</li><br>
-  
-  <li>Oscar Wilde. <em>De Profundis</em>.</li><br>
-  
-  <li>Edgar Allan Poe. <em>The Murders in the Rue Morgue</em>.</li><br>
 
   <li>Roger Ebert. <em>Review of "Being There" (1979).</em> (<a href="https://www.rogerebert.com/reviews/great-movie-being-there-1979">link</a>)</li><br>
 
