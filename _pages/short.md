@@ -10,6 +10,8 @@ nav_order: 7
 I *really* enjoy short pieces of writing. "Short" is of course relative, it could be a short story, a short poem, a short novel, or a short article. Below you can find some recommendations based on what I have been reading recently. Hope you enjoy them too!
 
 <ul>
+  <li> Sigmund Freud. <em>A Childhood Recollection from "Dichtung und Wahrheit" by Goethe</em>.</li><br>
+
   <li>Jorge Luis Borges. <em>The House of Asterion</em>.</li><br>
 
   <li>Edgar Allan Poe. <em>The Fall of the House of Usher</em>.</li><br>
