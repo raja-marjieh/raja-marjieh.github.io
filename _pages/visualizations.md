@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /visualizations/
-title: Interactive Visualizations
-description: Interactive 3D similarity visualizations.
+title: Interactive Pitch MDS Visualizations
+description: Interactive 3D similarity visualizations of pitch representations.
 nav: false
 nav_order: 5
 ---
 
-Below are interactive 3D MDS visualizations of similarity data.  
+Below are interactive three-dimensional MDS visualizations of pitch similarity data across tasks and experience groups.  
 You can rotate the plots using the mouse.
 
 ---
@@ -24,39 +24,89 @@ body { padding-top:0 !important; }
 }
 </style>
 
-### Figure 3A — Non-musicians (No Experience)
+### Figure 3A — Similarity (Melodies): Non-musicians (No Musical Experience)
 
 <iframe class="vis-frame"
 src="{{ '/assets/visualizations/fig3a.html' | relative_url }}">
 </iframe>
 
-<p style="font-size:0.9rem; color:gray;">
+<!-- <p style="font-size:0.9rem; color:gray;">
 Three-dimensional MDS solution for pitch similarity judgments among
 non-musicians with no musical training.
-</p>
+</p> -->
 
 ---
 
-### Figure 3B — Non-musicians (Some Experience)
+### Figure 3B — Similarity (Melodies): Non-musicians (Some Musical Experience)
 
 <iframe class="vis-frame"
 src="{{ '/assets/visualizations/fig3b.html' | relative_url }}">
 </iframe>
 
-<p style="font-size:0.9rem; color:gray;">
+<!-- <p style="font-size:0.9rem; color:gray;">
 Three-dimensional MDS solution for pitch similarity judgments among
 non-musicians with some musical training.
-</p>
+</p> -->
 
 ---
 
-### Figure 3C — Musicians
+### Figure 3C — Similarity (Melodies): Musicians
 
 <iframe class="vis-frame"
 src="{{ '/assets/visualizations/fig3c.html' | relative_url }}">
 </iframe>
 
-<p style="font-size:0.9rem; color:gray;">
+<!-- <p style="font-size:0.9rem; color:gray;">
 Three-dimensional MDS solution for pitch similarity judgments among
 musicians.
-</p>
+</p> -->
+
+---
+
+### Figure 3D — Singing: Non-musicians (No Musical Experience)
+
+<iframe class="vis-frame"
+src="{{ '/assets/visualizations/fig3d.html' | relative_url }}">
+</iframe>
+
+---
+
+### Figure 3E — Singing: Non-musicians (Some Musical Experience)
+
+<iframe class="vis-frame"
+src="{{ '/assets/visualizations/fig3e.html' | relative_url }}">
+</iframe>
+
+---
+
+### Figure 3F — Singing: Musicians
+
+<iframe class="vis-frame"
+src="{{ '/assets/visualizations/fig3f.html' | relative_url }}">
+</iframe>
+
+---
+
+### Figure 3G — Similarity (Tones): Non-musicians (No Musical Experience)
+
+<iframe class="vis-frame"
+src="{{ '/assets/visualizations/fig3g.html' | relative_url }}">
+</iframe>
+
+---
+
+### Figure 3H — Similarity (Tones): Non-musicians (Some Musical Experience)
+
+<iframe class="vis-frame"
+src="{{ '/assets/visualizations/fig3h.html' | relative_url }}">
+</iframe>
+
+---
+
+### Figure 3I — Similarity (Tones): Musicians
+
+<iframe class="vis-frame"
+src="{{ '/assets/visualizations/fig3i.html' | relative_url }}">
+</iframe>
+
+---
