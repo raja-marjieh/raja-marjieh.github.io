@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /visualizations/
+permalink: /pitch-visualizations-figa8/
 title: Interactive Pitch MDS Visualizations
 description: Interactive 3D similarity visualizations of pitch representations.
 nav: false
@@ -24,10 +24,10 @@ body { padding-top:0 !important; }
 }
 </style>
 
-### Figure 3A — Similarity (Melodies): Non-musicians (No Musical Experience)
+### Figure A8A — Similarity (Melodies): Non-musicians (No Musical Experience)
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3a.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8a.html' | relative_url }}">
 </iframe>
 
 <!-- <p style="font-size:0.9rem; color:gray;">
@@ -37,10 +37,10 @@ non-musicians with no musical training.
 
 ---
 
-### Figure 3B — Similarity (Melodies): Non-musicians (Some Musical Experience)
+### Figure A8B — Similarity (Melodies): Non-musicians (Some Musical Experience)
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3b.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8b.html' | relative_url }}">
 </iframe>
 
 <!-- <p style="font-size:0.9rem; color:gray;">
@@ -50,10 +50,10 @@ non-musicians with some musical training.
 
 ---
 
-### Figure 3C — Similarity (Melodies): Musicians
+### Figure A8C — Similarity (Melodies): Musicians
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3c.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8c.html' | relative_url }}">
 </iframe>
 
 <!-- <p style="font-size:0.9rem; color:gray;">
@@ -63,50 +63,50 @@ musicians.
 
 ---
 
-### Figure 3D — Singing: Non-musicians (No Musical Experience)
+### Figure A8D — Singing: Non-musicians (No Musical Experience)
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3d.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8d.html' | relative_url }}">
 </iframe>
 
 ---
 
-### Figure 3E — Singing: Non-musicians (Some Musical Experience)
+### Figure A8E — Singing: Non-musicians (Some Musical Experience)
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3e.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8e.html' | relative_url }}">
 </iframe>
 
 ---
 
-### Figure 3F — Singing: Musicians
+### Figure A8F — Singing: Musicians
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3f.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8f.html' | relative_url }}">
 </iframe>
 
 ---
 
-### Figure 3G — Similarity (Tones): Non-musicians (No Musical Experience)
+### Figure A8G — Similarity (Tones): Non-musicians (No Musical Experience)
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3g.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8g.html' | relative_url }}">
 </iframe>
 
 ---
 
-### Figure 3H — Similarity (Tones): Non-musicians (Some Musical Experience)
+### Figure A8H — Similarity (Tones): Non-musicians (Some Musical Experience)
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3h.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8h.html' | relative_url }}">
 </iframe>
 
 ---
 
-### Figure 3I — Similarity (Tones): Musicians
+### Figure A8I — Similarity (Tones): Musicians
 
 <iframe class="vis-frame"
-src="{{ '/assets/visualizations/fig3i.html' | relative_url }}">
+src="{{ '/assets/pitch-visualizations/figa8/figa8i.html' | relative_url }}">
 </iframe>
 
 ---
