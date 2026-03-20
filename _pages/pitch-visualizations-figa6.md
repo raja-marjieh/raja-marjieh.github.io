@@ -7,8 +7,8 @@ nav: false
 nav_order: 5
 ---
 
-Below are interactive three-dimensional MDS visualizations of pitch similarity data across tasks and experience groups.  
-You can rotate the plots using the mouse.
+Below are interactive three-dimensional MDS visualizations of pitch similarity data across tasks and experience groups (see Figure A6 in the paper for additional details).  
+You can rotate the plots using the mouse. You can scroll up/down to zoom in/out.
 
 ---
 <style>
