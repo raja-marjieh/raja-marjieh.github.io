@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Kempner Institute</p>
     <p>Science & Engineering Complex</p>
-    <p>Harvard University</p>
+    <p>Harvard University,</p>
     <p>Boston, MA 02134</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
