@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "You can download my CV through the PDF button on the top right (last updated - November 5, 2025).",
+          description: "You can download my CV through the PDF button on the top right (last updated - August 2, 2026).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -382,6 +382,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-new-paper-out-in-cognitive-science-you-can-check-it-out-here",
           title: 'New paper out in Cognitive Science. You can check it out here!',
+          description: "",
+          section: "News",},{id: "news-six-papers-accepted-to-cogsci-2026",
+          title: 'Six papers accepted to CogSci 2026!',
+          description: "",
+          section: "News",},{id: "news-check-out-our-recent-papers-in-tmlr-pnas-and-iclr",
+          title: 'Check out our recent papers in TMLR, PNAS, and ICLR!',
           description: "",
           section: "News",},{id: "projects-similarity-and-representations",
           title: 'Similarity and Representations',
