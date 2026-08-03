@@ -387,7 +387,7 @@ ninja.data = [{
           title: 'Six papers accepted to CogSci 2026!',
           description: "",
           section: "News",},{id: "news-check-out-our-recent-papers-in-tmlr-pnas-and-iclr",
-          title: 'Check out our recent papers in TMLR, PNAS, and ICLR!',
+          title: 'Check out our recent papers in TMLR, PNAS, and ICLR.',
           description: "",
           section: "News",},{id: "projects-similarity-and-representations",
           title: 'Similarity and Representations',
