@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Psychology</p>
-    <p>Peretsman-Scully Hall</p>
-    <p>Princeton, NJ 08540</p>
+    <p>Kempner Institute</p>
+    <p>Harvard Science & Engineering Complex</p>
+    <p>Boston, MA 02134</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate at [Princeton Psychology](https://psychology.princeton.edu/) working in the Griffiths [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php), currently in my 5th year. I also collaborate closely with the [Cornell Computational Cognition Lab](https://www.norijacoby.com/cococo.html).
+I'm an incoming [Kempner](https://kempnerinstitute.harvard.edu/) Research Fellow at Harvard University. I recently completed my PhD at [Princeton Psychology](https://psychology.princeton.edu/) in the Griffiths [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php), where I also closely collaborated with the [Cornell Computational Cognition Lab](https://www.norijacoby.com/cococo.html).
 
-Prior to that I completed an MSc in Physics, and a joint BSc in Physics and Electrical Engineering at the [Technion](https://www.technion.ac.il/en/).
+Prior to that I completed an MSc in Physics and a joint BSc in Physics and Electrical Engineering at the [Technion](https://www.technion.ac.il/en/).
+
+In AY 27-28 I will be joining the Department of Psychology at [Tufts University](https://as.tufts.edu/psychology/) as an Assistant Professor. Please reach out if you're interested in working with me!
