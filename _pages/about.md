@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Email: raja [dot] marjieh [at] princeton [dot] edu"
+subtitle: "Email: rmarjieh [at] g [dot] harvard [dot] edu"
 
 profile:
   align: right
