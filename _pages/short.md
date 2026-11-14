@@ -7,9 +7,11 @@ nav: true
 nav_order: 7
 ---
 
-I *really* enjoy short pieces of writing. "Short" is of course relative, it could be a short story, a short poem, a short novel, or a short article. Below you can find some recommendations based on what I have been reading recently. Hope you enjoy them too!
+I *really* enjoy (good) short pieces of writing. "Short" is of course relative: it could be a short story, a short poem, a short novel, or a short article. Below you can find some recommendations based on what I have been reading recently. Hope you enjoy them too!
 
 <ul>
+  <li> Sappho. <em>If Not, Winter: Fragments of Sappho, Translated by Anne Carson.</em> (<a href="https://digitalsappho.org/fragments/fr104-117/">Fragment 104A</a> in particular.)</li><br>
+  
   <li> Ovid. <em>"Arachne and Minerva" from Metamorphoses Book VI</em>. (recommended <a href="https://www.ucpress.edu/books/ovids-metamorphoses/paper">translation</a>)</li><br>
 
   <li> Hart Crane. <em>My Grandmother's Love Letters</em>.</li><br> 
