@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "You can download my CV through the PDF button on the top right (last updated - August 2, 2026).",
+          description: "You can download my CV through the PDF button on the top right (last updated - November 14, 2026).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -389,6 +389,9 @@ ninja.data = [{
           section: "News",},{id: "news-check-out-our-recent-papers-in-tmlr-pnas-and-iclr",
           title: 'Check out our recent papers in TMLR, PNAS, and ICLR.',
           description: "",
+          section: "News",},{id: "news-three-new-papers-in-press-two-in-psychological-review-and-one-in-pnas-more-soon",
+          title: 'Three new papers in press: two in Psychological Review, and one in PNAS....',
+          description: "",
           section: "News",},{id: "projects-similarity-and-representations",
           title: 'Similarity and Representations',
           description: "Aspects of Similarity in Natural and Artificial Minds",
@@ -439,7 +442,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%72%61%6A%61.%6D%61%72%6A%69%65%68@%70%72%69%6E%63%65%74%6F%6E.%65%64%75", "_blank");
+          window.open("mailto:%72%6D%61%72%6A%69%65%68@%67.%68%61%72%76%61%72%64.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
